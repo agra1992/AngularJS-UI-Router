@@ -1,0 +1,16 @@
+{
+  "name": "angular-ui-router",
+  "version": "0.0.0",
+  "private": false,
+  "author": "Agradeep K",
+  "devDependencies": {
+  },
+  "engines": {
+    "node": "5.1.0",
+    "npm": "3.4.1"
+  },
+  "dependencies": {
+    "express": "~4.9.7"
+  },
+  "cacheDirectories": ["node_modules"]
+}
