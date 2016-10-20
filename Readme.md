@@ -10,3 +10,5 @@ Multiple Views
 Why would somebody use this approach? 
 Each part has its own data, so having each with its own controllers and template files makes building something like this easy.
 
+Live link:
+https://angular-ui-router-app.herokuapp.com
